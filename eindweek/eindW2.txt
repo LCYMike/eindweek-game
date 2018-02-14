@@ -1,5 +1,0 @@
-Enemy moet onder player
-
-minesweeper moet afsluiten en terug gaan naar de main op game over
-
-minesweeper moet activeren door op icoon te staan (kan met collision maar met vaste coordinaten is makkenlijker
